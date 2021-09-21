@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Lab 05 Test GitHub Page
 
 # Your name to show in the footer
-author: Some Person
+author: Sana Zamil
 
 # --- List of links in the navigation bar --- #
 
@@ -39,9 +39,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "sabumahf@asu.edu"
   facebook: deanattali
-  github: daattali
+  github: Sanaz27
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
@@ -65,8 +65,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: This website is an assignment for CPP 527 Found Data Sci II: Data Wrang
 # --- General options --- #
 
 # Select which social network share links to show in posts
@@ -78,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Sanaz.github.io.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
