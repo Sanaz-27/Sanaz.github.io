@@ -45,12 +45,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sabumahf@asu.edu"
-  facebook: " "
   github: Sanaz27
   twitter: " "
-  patreon: " "
   youtube: " "
   linkedin: sanazamil
+# facebook: " "
+# patreon: " "
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
