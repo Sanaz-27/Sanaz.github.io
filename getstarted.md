@@ -266,7 +266,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-03 h3 { 
-     color: blue1 }
+     color: mediumseagreen }
 
 .gs-section-03 p {
      font-size: 30px;
