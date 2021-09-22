@@ -247,29 +247,29 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: mediumseagreen }
 
 .gs-section-01 p {
-     font-size: 30px;
+     font-size: 20px;
 }
 
 </style>
 
 <style>
 
-.gs-section-02 h3 { 
+.gs-section-02 h2 { 
      color: red }
 
 .gs-section-02 p {
-     font-size: 40px;
+     font-size: 10px;
 }
 
 </style>
 
 <style>
 
-.gs-section-03 h2 { 
-     color: darkblue }
+.gs-section-03 h1 { 
+     color: blue }
 
 .gs-section-03 p {
-     font-size: 35px;
+     font-size: 30px;
 }
 
 </style>
