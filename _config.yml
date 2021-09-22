@@ -21,7 +21,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Build your website in 3 steps: "https://github.com/DS4PS/beautiful-jekyll/blob/master/README.md"
+    - Getting Started: "getstarted"  
   Author's home: "https://github.com/Sanaz-27"
 
 # --- Logo --- #
