@@ -78,7 +78,7 @@ by clicking the Fork button on the top right corner in GitHub.
 
 <div class="gs-section-02" markdown="1">
 
-### 2. Rename the project to `<yourusername>.github.io`
+## 2. Rename the project to `<yourusername>.github.io`
 
 Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
 
@@ -265,8 +265,8 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-.gs-section-03 h1 { 
-     color: blue }
+.gs-section-03 h3 { 
+     color: blue1 }
 
 .gs-section-03 p {
      font-size: 30px;
